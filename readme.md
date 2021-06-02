@@ -1,6 +1,4 @@
-# CTEC3905 Assignment
-
-For the assignment, I have chosen to develop personal portfolio. 
+ 
 
 ## index.html
 
